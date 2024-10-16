@@ -1,0 +1,168 @@
+<! -- By https://www.linkedin.com/in/rman-singh/ -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Health Protection Reports - Manual Data Entry with Geocode</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        label {
+            display: block;
+            margin: 10px 0 5px;
+        }
+
+        input, textarea {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 10px;
+        }
+
+        button {
+            padding: 10px 15px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+
+        .json-output {
+            margin-top: 20px;
+            white-space: pre-wrap;
+            background-color: #f4f4f4;
+            padding: 10px;
+            border: 1px solid #ccc;
+        }
+
+        .loading {
+            color: blue;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Establishment Closure Form</h1>
+
+    <form id="closureForm">
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name" required>
+
+        <label for="address">Address</label>
+        <input type="text" id="address" name="address" required>
+
+        <label for="type">Type of Establishment</label>
+        <input type="text" id="type" name="type" required>
+
+        <label for="closureDate">Closure Date</label>
+        <input type="text" id="closureDate" name="closureDate" required>
+
+        <label for="reopenDate">Re-open Date (if applicable)</label>
+        <input type="text" id="reopenDate" name="reopenDate">
+
+        <label for="reasons">Reasons for Closure</label>
+        <textarea id="reasons" name="reasons" rows="4" required></textarea>
+
+        <div id="loadingMessage" class="loading" style="display: none;">Geocoding in progress...</div>
+
+        <button type="button" onclick="handleNext()">Next</button>
+        <button type="button" onclick="downloadGeoJSON()">Download GeoJSON</button>
+    </form>
+
+    <div id="jsonOutput" class="json-output"></div>
+
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script>
+        const form = document.getElementById('closureForm');
+        const jsonOutput = document.getElementById('jsonOutput');
+        const loadingMessage = document.getElementById('loadingMessage');
+        const accessToken = ''; // Replace with Mapbox access token
+        let geoJsonFeatures = [];
+
+        function handleNext() {
+            const address = form.address.value;
+            geocodeAddress(address);
+        }
+
+        function geocodeAddress(address) {
+            if (!address) return;
+
+            loadingMessage.style.display = 'block';
+
+            const url = `https://api.mapbox.com/geocoding/v5/mapbox.places/${encodeURIComponent(address)}.json?access_token=${accessToken}`;
+
+            return axios.get(url).then(response => {
+                if (response.data.features && response.data.features.length > 0) {
+                    const coordinates = response.data.features[0].geometry.coordinates;
+                    addGeoJsonFeature(coordinates);
+                } else {
+                    alert('No geocode results for the address. Please enter a valid address.');
+                }
+            }).catch(error => {
+                console.error(`Error geocoding address: ${address}`, error);
+                alert('Error occurred while geocoding. Please try again.');
+            }).finally(() => {
+                loadingMessage.style.display = 'none';
+            });
+        }
+
+        function addGeoJsonFeature(coordinates) {
+            const feature = {
+                type: "Feature",
+                geometry: {
+                    type: "Point",
+                    coordinates: coordinates
+                },
+                properties: {
+                    name: form.name.value,
+                    address: form.address.value,
+                    type_of_est: form.type.value,
+                    closure_date: form.closureDate.value,
+                    re_open_date: form.reopenDate.value || null,
+                    reasons_for_closure: form.reasons.value.replace(/\n/g, ' ')
+                }
+            };
+
+            geoJsonFeatures.push(feature);
+            updateJsonOutput();
+            resetForm();
+        }
+
+        function updateJsonOutput() {
+            const geoJson = {
+                type: "FeatureCollection",
+                features: geoJsonFeatures
+            };
+            jsonOutput.textContent = JSON.stringify(geoJson, null, 4);
+        }
+
+        function resetForm() {
+            form.reset();
+        }
+
+        function downloadGeoJSON() {
+            const geoJson = {
+                type: "FeatureCollection",
+                features: geoJsonFeatures
+            };
+            const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(geoJson, null, 4));
+            const downloadAnchorNode = document.createElement('a');
+            downloadAnchorNode.setAttribute("href", dataStr);
+            downloadAnchorNode.setAttribute("download", "data.geojson");
+            document.body.appendChild(downloadAnchorNode); 
+            downloadAnchorNode.click();
+            downloadAnchorNode.remove();
+        }
+    </script>
+
+</body>
+</html>

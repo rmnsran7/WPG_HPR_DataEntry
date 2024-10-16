@@ -1,0 +1,1157 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.171732,
+                    49.906746
+                ]
+            },
+            "properties": {
+                "name": "GRAND ROYAL LEGACY BANQUET HALL",
+                "address": "44 McPhillips Street Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Oct 10/24",
+                "re_open_date": null,
+                "reasons_for_closure": "As an operator, fail to take effective measures against the entry and presence of pests. Fail to ensure foods are stored protected from contamination. As an operator, did prepare food under insanitary conditions."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.197057,
+                    49.955627
+                ]
+            },
+            "properties": {
+                "name": "MY INDIGO",
+                "address": "55 Waterford Green Cmn Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Oct 9/24",
+                "re_open_date": "Oct 11/24",
+                "reasons_for_closure": "Fail to ensure food contact surfaces are clean and sanitized and protected from contamination. As an operator, did prepare food under insanitary conditions. Fail to ensure foods are stored protected from contamination. Fail to ensure that the establishment is maintained in good repair and kept clean."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.14006,
+                    49.8721
+                ]
+            },
+            "properties": {
+                "name": "AKINDO SUSHI BISTRO",
+                "address": "105-121 Osborne Street Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Oct 8/24",
+                "re_open_date": null,
+                "reasons_for_closure": "As an operator, fail to take effective measures against the entry and presence of pests. Fail to ensure foods are stored protected from contamination."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.14006,
+                    49.8721
+                ]
+            },
+            "properties": {
+                "name": "GONG CHA",
+                "address": "203-121 Osborne Street Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Oct 7/24",
+                "re_open_date": null,
+                "reasons_for_closure": "As an operator, fail to take effective measures against the entry and presence of pests."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.17311,
+                    49.896753
+                ]
+            },
+            "properties": {
+                "name": "TINDAHAN FOOD MART",
+                "address": "906 Sargent Avenue Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Oct 3/24",
+                "re_open_date": null,
+                "reasons_for_closure": "As an operator, fail to take effective measures against the entry and presence of pests. Fail to ensure foods are stored protected from contamination. As an operator, did prepare food under insanitary conditions."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.19502,
+                    49.932724
+                ]
+            },
+            "properties": {
+                "name": "KIMCHI SUSHI",
+                "address": "14-998 Keewatin Street Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Oct 3/24",
+                "re_open_date": "Oct 11/24",
+                "reasons_for_closure": "As an operator, fail to take effective measures against the entry and presence of pests. As an operator, did prepare food under insanitary conditions. Fail to ensure food contact surfaces are clean and sanitized and protected from contamination. Fail to ensure foods are stored protected from contamination."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.14006,
+                    49.8721
+                ]
+            },
+            "properties": {
+                "name": "MESOB ETHIOPIAN EATS",
+                "address": "200-121 Osborne Street Winnipeg, MB ",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Oct 2/24",
+                "re_open_date": "Oct 4/24",
+                "reasons_for_closure": "Fail to ensure that the establishment is maintained in good repair and kept clean."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.146018,
+                    49.878166
+                ]
+            },
+            "properties": {
+                "name": "SPICY GRILL – EAST INDIAN & HAKKA RESTAURANT",
+                "address": "C-121 Osborne Street Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Oct 2/24",
+                "re_open_date": null,
+                "reasons_for_closure": "As an operator, fail to take effective measures against the entry and presence of pests. As an operator, did prepare food under insanitary conditions."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.19613,
+                    49.934945
+                ]
+            },
+            "properties": {
+                "name": "FIL-MART CORP - BUTCHER SHOP",
+                "address": "220 Tyndall Avenue Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Sep 26/24",
+                "re_open_date": "Oct 3/24",
+                "reasons_for_closure": "As an operator, fail to take effective measures against the entry and presence of rodents. As an operator, did prepare food under insanitary conditions. Fail to ensure foods are stored protected from contamination."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.19613,
+                    49.934945
+                ]
+            },
+            "properties": {
+                "name": "FIL-MART CORP - TAKE-OUT FOOD",
+                "address": "220 Tyndall Avenue Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Sep 26/24",
+                "re_open_date": "Oct 3/24",
+                "reasons_for_closure": "As an operator, fail to take effective measures against the entry and presence of rodents. As an operator, did prepare food under insanitary conditions. Fail to ensure foods are stored protected from contamination."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.139874,
+                    49.886952
+                ]
+            },
+            "properties": {
+                "name": "ROBIN’S DONUTS",
+                "address": "95-234 Donald Street Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Sep 13/24",
+                "re_open_date": "Sep 17/24",
+                "reasons_for_closure": "Fail to ensure that an adequate supply of hot water at a temperature of no less than 50 degrees Celsius is provided for cleaning purposes."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.025355,
+                    49.885307
+                ]
+            },
+            "properties": {
+                "name": "TRANSCONA COUNTRY CLUB",
+                "address": "2060 Dugald Road Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Aug 26/24",
+                "re_open_date": null,
+                "reasons_for_closure": "Fail to ensure that the establishment is maintained in good repair and kept clean. Fail to ensure food contact surfaces are clean and sanitized and protected from contamination. Fail to maintain washer in satisfactory condition."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.024777,
+                    49.885242
+                ]
+            },
+            "properties": {
+                "name": "TRANSCONA COUNTRY CLUB",
+                "address": "2070 Dugald Road Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Aug 26/24",
+                "re_open_date": null,
+                "reasons_for_closure": "As the operator of a food services establishment, fail when using a mechanical washer, to ensure that the machine is capable of sanitizing all utensils and tableware. Fail to ensure that the establishment is maintained in good repair and kept clean."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.19502,
+                    49.932724
+                ]
+            },
+            "properties": {
+                "name": "WATER PLANT TOO",
+                "address": "3-998 Keewatin Street Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Aug 26/24",
+                "re_open_date": "Sep 9/24",
+                "reasons_for_closure": "As an operator, fail to take effective measures against the entry and presence of rodents. As an operator, did prepare food under insanitary conditions. Fail to ensure foods are stored protected from contamination. Fail to ensure that the establishment is maintained in good repair and kept clean"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.194733,
+                    49.920868
+                ]
+            },
+            "properties": {
+                "name": "KEEWATIN PIZZA AND CONVENIENCE",
+                "address": "115 Keewatin Street Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Aug 14/24",
+                "re_open_date": "Aug 16/24",
+                "reasons_for_closure": "As an operator, fail to take effective measures against the entry and presence of rodents. As an operator, did prepare food under insanitary conditions. Fail to ensure foods are stored protected from contamination. Fail to provide an adequate supply of hot water. "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.117884,
+                    49.893575
+                ]
+            },
+            "properties": {
+                "name": "CHAISE CAFÉ & LOUNGE",
+                "address": "271 Provencher Boulevard Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Aug 1/24",
+                "re_open_date": "Aug 2/24",
+                "reasons_for_closure": "As an operator, did prepare food under insanitary conditions. Fail to ensure food contact surfaces are clean and sanitized and protected from contamination. As an operator, fail to take effective measures against the entry and presence of rodents. Fail to ensure foods are stored protected from contamination."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.194503,
+                    49.916411
+                ]
+            },
+            "properties": {
+                "name": "TANDOOR HOUSE & COMMISSARY",
+                "address": "1-998 Keewatin Street Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Jul 31/24",
+                "re_open_date": "Aug 8/24",
+                "reasons_for_closure": "As an operator, fail to take effective measures against the entry and presence of pests. As an operator, did prepare food under insanitary conditions. Fail to ensure foods are stored protected from contamination. Fail to ensure food contact surfaces are clean and sanitized and protected from contamination"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.174723,
+                    49.897184
+                ]
+            },
+            "properties": {
+                "name": "LUSO CANADIAN CLUB",
+                "address": "913 Sargent Avenue Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Jul 23/24",
+                "re_open_date": "Jul 25/24",
+                "reasons_for_closure": "Did prepare foods under insanitary conditions. Fail to take effective measures against the entry and presence of rodents. Fail to ensure foods were protected from contamination."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.15873,
+                    49.888694
+                ]
+            },
+            "properties": {
+                "name": "A ONE FAST FOOD",
+                "address": "643 Portage Avenue Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Jul 19/24",
+                "re_open_date": "Jul 26/24",
+                "reasons_for_closure": "As an operator, fail to take effective measures against the entry and presence of rodents. As an operator, did prepare, store, and sell, food under insanitary conditions"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.135392,
+                    49.802632
+                ]
+            },
+            "properties": {
+                "name": "NORTH GARDEN",
+                "address": "6-33 University Crescent Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Jul 18/24",
+                "re_open_date": "Jul 24/24",
+                "reasons_for_closure": "Did prepare foods under insanitary conditions. Fail to take effective measures against the entry and presence of rodents. Fail to ensure foods were protected from contamination"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.167014,
+                    49.930682
+                ]
+            },
+            "properties": {
+                "name": "VC CUEVAS BAKERY",
+                "address": "989 McPhillips Street Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Jul 17/24",
+                "re_open_date": "Jul 23/24",
+                "reasons_for_closure": "As an operator, fail to take effective measures against the entry and presence of rodents. As an operator, did prepare food under insanitary conditions. Fail to ensure food contact surfaces are clean and sanitized and protected from contamination. Fail to ensure foods are stored protected from contamination. Fail to ensure that the establishment is maintained in good repair and kept clean"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.209342,
+                    49.845775
+                ]
+            },
+            "properties": {
+                "name": "HILTON GARDEN INN",
+                "address": "495 Sterling Lyon Parkway Winnipeg, MB",
+                "type_of_est": "Whirlpool",
+                "closure_date": "Jul 16/24",
+                "re_open_date": "Jul 18/24",
+                "reasons_for_closure": "Operate a whirlpool with inadequate water quality. "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.216627,
+                    49.878976
+                ]
+            },
+            "properties": {
+                "name": "GOOD EARTH CHOP SUEY HOUSE",
+                "address": "1849 Portage Avenue Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Jul 16/24",
+                "re_open_date": "Jul 26/24",
+                "reasons_for_closure": "As an operator, fail to take effective measures against the entry and presence of rodents. As an operator, did prepare food under insanitary conditions. Fail to ensure foods are stored protected from contamination"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.068451,
+                    49.897613
+                ]
+            },
+            "properties": {
+                "name": "APPLEBEE’S",
+                "address": "1598 Regent Avenue W Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Jul 12/24",
+                "re_open_date": "Jul 15/24",
+                "reasons_for_closure": "As an operator, fail to take effective measures against the entry and presence of rodents."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.187973,
+                    49.91027
+                ]
+            },
+            "properties": {
+                "name": "METRO GRILL AT TRAVELODGE BY WYNDHAM",
+                "address": "1400 Notre Dame Avenue Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Jul 5/24",
+                "re_open_date": "Jul 12/24",
+                "reasons_for_closure": "As an operator, did prepare food under insanitary conditions. As an operator, fail to take effective measures against the entry and presence of rodents. Fail to ensure foods are stored protected from contamination. "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.201055,
+                    49.822911
+                ]
+            },
+            "properties": {
+                "name": "THE CHILI CHUTNEY STREET KITCHEN",
+                "address": "1663 Kenaston Blvd Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Jul 4/24",
+                "re_open_date": "Jul 5/24",
+                "reasons_for_closure": "As the operator of a food service establishment, fail, when using a mechanical washer, to ensure that the machine is capable of sanitizing all utensils and tableware."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.151393,
+                    49.826583
+                ]
+            },
+            "properties": {
+                "name": "ARMADALE HOLLOWS",
+                "address": "1750 Pembina Hwy Winnipeg, MB",
+                "type_of_est": "Swimming Pool",
+                "closure_date": "Jun 27/24",
+                "re_open_date": "Jul 4/24",
+                "reasons_for_closure": "Operate a pool with inadequate water quality"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.151393,
+                    49.826583
+                ]
+            },
+            "properties": {
+                "name": "ARMADALE HOLLOWS Semi-Public Whirlpool",
+                "address": "1750 Pembina Hwy Winnipeg, MB",
+                "type_of_est": "Whirlpool",
+                "closure_date": "Jun 27/24",
+                "re_open_date": "Jul 4/24",
+                "reasons_for_closure": "Operate a whirlpool with inadequate water quality. "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.30773,
+                    49.88185
+                ]
+            },
+            "properties": {
+                "name": "YMCA-YWCA WEST PORTAGE",
+                "address": "3550 Portage Avenue Winnipeg, MB",
+                "type_of_est": "Whirlpool",
+                "closure_date": "Jun 27/24",
+                "re_open_date": "Jun 28/24",
+                "reasons_for_closure": "Operate a whirlpool with inadequate water quality."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.149139,
+                    49.86084
+                ]
+            },
+            "properties": {
+                "name": "ONE STOP AFRICAN RESTAURANT",
+                "address": "B-598 Ebby Avenue Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Jun 20/24",
+                "re_open_date": "June 24/24",
+                "reasons_for_closure": "Fail to ensure that the establishment is maintained in good repair and kept clean. Fail to ensure that an adequate supply of hot and cold potable water is provided. Fail to ensure the manual dishwashing procedure is correctly used."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.198082,
+                    49.819687
+                ]
+            },
+            "properties": {
+                "name": "MONGO’S GRILL",
+                "address": "1721 Kenaston Boulevard Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Jun 18/24",
+                "re_open_date": "Jun 20/24",
+                "reasons_for_closure": "As an operator, did prepare food under insanitary conditions. As an operator, fail to take effective measures against the entry and presence of rodents. Fail to ensure foods are stored protected from contamination."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.149986,
+                    49.816206
+                ]
+            },
+            "properties": {
+                "name": "SUMMERLAND",
+                "address": "77 University Crescent Winnipeg, MB",
+                "type_of_est": "Swimming Pool",
+                "closure_date": "Jun 12/24",
+                "re_open_date": "Jun 14/24",
+                "reasons_for_closure": "Fail to provide a readily accessible telephone, or such other means of contacting emergency assistance."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.142677,
+                    49.891473
+                ]
+            },
+            "properties": {
+                "name": "ZA PIZZA BISTRO EXPRESS",
+                "address": "102A-234 Donald Street Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Jun 7/24",
+                "re_open_date": "June 18/24",
+                "reasons_for_closure": "Fail to register before commencing operation of a food handling establishment. Operate a food handling establishment without a permit. Fail to ensure food contact surfaces are clean and sanitized and protected from contamination. "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.196991,
+                    49.790458
+                ]
+            },
+            "properties": {
+                "name": "ALTEA ACTIVE MEN’S WHIRLPOOL",
+                "address": "100 South Town Road Winnipeg, MB",
+                "type_of_est": "Whirlpool ",
+                "closure_date": "Jun 4/24",
+                "re_open_date": "Jun 5/24 ",
+                "reasons_for_closure": "Operate a whirlpool with inadequate water quality."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.210475,
+                    49.894179
+                ]
+            },
+            "properties": {
+                "name": "AIRPORT MOTOR INN",
+                "address": "1800 Ellice Avenue Winnipeg, MB",
+                "type_of_est": "Whirlpool",
+                "closure_date": "May 29/24",
+                "re_open_date": "May 30/24",
+                "reasons_for_closure": "Operate a whirlpool with inadequate water quality."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.138596,
+                    49.89558
+                ]
+            },
+            "properties": {
+                "name": "CHOSABI ASIAN EATERY",
+                "address": "A&B-100 King Street Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "May 24/24",
+                "re_open_date": "Jun 4/24",
+                "reasons_for_closure": "Did prepare food under insanitary conditions. As an operator, fail to take effective measures against the entry and presence of pests. "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.113424,
+                    49.833956
+                ]
+            },
+            "properties": {
+                "name": "PUNJAB FOOD CORNER",
+                "address": "1121 St. Mary’s Road Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "May 17/24",
+                "re_open_date": "May 24/24",
+                "reasons_for_closure": "Fail to ensure food contact surfaces are clean and sanitized and protected from contamination. Fail to ensure that the establishment is maintained in good repair and kept clean. Fail to ensure foods are stored protected from contamination."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.19569,
+                    49.882069
+                ]
+            },
+            "properties": {
+                "name": "UQUUTAG MEDICAL BOARDING HOME",
+                "address": "1445 Portage Avenue Winnipeg, MB",
+                "type_of_est": "Swimming Pool",
+                "closure_date": "May 16/24",
+                "re_open_date": "May 22, 2024",
+                "reasons_for_closure": "Operate a pool with inadequate water quality"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.195922,
+                    49.934974
+                ]
+            },
+            "properties": {
+                "name": "ARISTOCRAT RESTAURANT",
+                "address": "D-210 Tyndall Avenue Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "May 16/24",
+                "re_open_date": "May 24/24",
+                "reasons_for_closure": "As an operator, did prepare and store food under insanitary conditions. Fail to ensure that the establishment is maintained in good repair and kept clean. Fail to ensure that food contact surfaces of equipment and utensils are thoroughly cleaned and sanitized."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.196507,
+                    49.934987
+                ]
+            },
+            "properties": {
+                "name": "EAST LAKE",
+                "address": "230 Tyndall Avenue Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "May 7/24",
+                "re_open_date": "May 10/24",
+                "reasons_for_closure": "As an operator, did prepare and store food under insanitary conditions. Fail to ensure that the establishment is maintained in good repair and kept clean. Fail to ensure that food contact surfaces of equipment and utensils are thoroughly cleaned and sanitized. "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.21194,
+                    49.867087
+                ]
+            },
+            "properties": {
+                "name": "SAFEWAY BAKERY",
+                "address": "2025 Corydon Avenue Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "May 7/24",
+                "re_open_date": "May 8/24",
+                "reasons_for_closure": "Did prepare foods under insanitary conditions. Fail to take effective measures against the entry and presence of rodents."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.150254,
+                    49.872112
+                ]
+            },
+            "properties": {
+                "name": "SUSHI YA RESTAURANT",
+                "address": "659 Corydon Avenue Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "May 1/24",
+                "re_open_date": "May 6/24",
+                "reasons_for_closure": "Did prepare foods under insanitary conditions. Fail to take effective measures against the entry and presence of rodents. Fail to ensure foods were protected from contamination"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.19502,
+                    49.932724
+                ]
+            },
+            "properties": {
+                "name": "KIMCHI SUSHI",
+                "address": "14-998 Keewatin Street Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "May 1/24",
+                "re_open_date": "May 3/24",
+                "reasons_for_closure": "As an operator, fail to take effective measures against the entry and presence of insects. Did store and prepare food under insanitary conditions. Fail to ensure foods were protected from contamination."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.13997,
+                    49.889108
+                ]
+            },
+            "properties": {
+                "name": "LE CHATEAU YORK",
+                "address": "134 Smith Street Winnipeg, MB",
+                "type_of_est": "Swimming Pool",
+                "closure_date": "Apr 17/24",
+                "re_open_date": "Jul 4/24",
+                "reasons_for_closure": "Operate a pool where hazardous conditions exist and present a risk of injury."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.152806,
+                    49.949462
+                ]
+            },
+            "properties": {
+                "name": "DELCIOUS PIZZA ‘N’ WINGS",
+                "address": "2A-2140 McPhillips Street Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Apr 17/24",
+                "re_open_date": "Apr 19/24",
+                "reasons_for_closure": "Fail to ensure that the establishment is maintained in good repair and kept clean. As an operator, did prepare food under insanitary conditions. Fail to ensure food contact surfaces are clean and sanitized and protected from contamination."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.14006,
+                    49.8721
+                ]
+            },
+            "properties": {
+                "name": "SUBWAY",
+                "address": "1-660 Osborne Street Winnipeg, MB",
+                "type_of_est": "Food Service Establishment ",
+                "closure_date": "Apr 12/24",
+                "re_open_date": "Apr 12/24 ",
+                "reasons_for_closure": "Fail to ensure that an adequate supply of hot water at a temperature of no less than 50 degrees Celsius is provided for cleaning purposes.  "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.209048,
+                    49.897635
+                ]
+            },
+            "properties": {
+                "name": "DAYS INN & SUITES",
+                "address": "695 Berry Street Winnipeg, MB",
+                "type_of_est": "Whirlpool",
+                "closure_date": "Mar 26/24",
+                "re_open_date": "Apr 2/24",
+                "reasons_for_closure": "Operate a whirlpool with inadequate water quality"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.209048,
+                    49.897635
+                ]
+            },
+            "properties": {
+                "name": "DAYS INN & SUITES",
+                "address": "695 Berry Street Winnipeg, MB",
+                "type_of_est": "Swimming Pool",
+                "closure_date": "Mar 26/24",
+                "re_open_date": "Apr 2/24",
+                "reasons_for_closure": "Operate a pool with inadequate water quality"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.196666,
+                    49.942934
+                ]
+            },
+            "properties": {
+                "name": "TANDOOR HOUSE",
+                "address": "998 Keewatin Street Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Mar 15/24",
+                "re_open_date": "Mar 26/24",
+                "reasons_for_closure": "Did prepare foods under insanitary conditions. Fail to take effective measures against the entry and presence of rodents. Fail to ensure foods were protected from contamination."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.148013,
+                    49.90484
+                ]
+            },
+            "properties": {
+                "name": "CANCO 169",
+                "address": "228 Isabel Street Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Mar 13/24",
+                "re_open_date": null,
+                "reasons_for_closure": "As an operator, fail to take effective measures against the entry and presence of pests."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.169937,
+                    49.923318
+                ]
+            },
+            "properties": {
+                "name": "DHABA BOX INC",
+                "address": "644 McPhillips Street Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Mar 11/24",
+                "re_open_date": "Mar 22/24",
+                "reasons_for_closure": "As an operator, fail to take effective measures against the entry and presence of pests. Fail to ensure that the establishment is maintained in good repair and kept clean. Fail to ensure that food contact surfaces of equipment and utensils are thoroughly cleaned and sanitized after each usage or at suitable intervals. As an operator, fail to maintain safe internal temperature of potentially hazardous foods"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.181912,
+                    49.893437
+                ]
+            },
+            "properties": {
+                "name": "KKIKO’S GRILL",
+                "address": "1060 Ellice Avenue Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Mar 1/24",
+                "re_open_date": "Mar 6/24",
+                "reasons_for_closure": "As the operator of a food service establishment, failed to ensure dishes are sanitized when dishwashing. No approved manual dishwashing equipment available."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.146658,
+                    49.890738
+                ]
+            },
+            "properties": {
+                "name": "MING COURT",
+                "address": "236 Edmonton Street Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Feb 29/24",
+                "re_open_date": "Mar 12/24",
+                "reasons_for_closure": "As an operator, did prepare and store food under insanitary conditions. Fail to ensure that the establishment is maintained in good repair and kept clean. Fail to ensure that food contact surfaces of equipment and utensils are thoroughly cleaned and sanitized."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.197057,
+                    49.955627
+                ]
+            },
+            "properties": {
+                "name": "SARDAR SUPERMARKET",
+                "address": "55 Waterford Green Cmn Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Feb 28/24",
+                "re_open_date": "Mar 4/24",
+                "reasons_for_closure": "As an operator, did prepare food under insanitary conditions. Fail to ensure that the establishment is maintained in good repair and kept clean. Fail to ensure that food contact surfaces of equipment and utensils are thoroughly cleaned and sanitized."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.113424,
+                    49.833956
+                ]
+            },
+            "properties": {
+                "name": "PUNJAB FOOD CORNER",
+                "address": "1121 St. Mary’s Road Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Feb 26/24",
+                "re_open_date": "Feb 27/24",
+                "reasons_for_closure": "Fail to ensure that the establishment is maintained in good repair and kept clean. Fail to ensure food contact surfaces are clean and sanitized and protected from contamination. Fail to ensure that foods are protected from contamination. Fail to ensure that an adequate supply of hot water at a temperature of 50C is provided for cleaning purposes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.197057,
+                    49.955627
+                ]
+            },
+            "properties": {
+                "name": "LUCITA’S RESTAURANT",
+                "address": "55 Waterford Green Cmn Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Feb 20/24 ",
+                "re_open_date": "Mar 5/24",
+                "reasons_for_closure": "As an operator, did prepare food under insanitary conditions. Fail to ensure that the establishment is maintained in good repair and kept clean. Fail to ensure that food contact surfaces of equipment and utensils are thoroughly cleaned and sanitized."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.157221,
+                    49.788651
+                ]
+            },
+            "properties": {
+                "name": "LUCKY BAMBOO",
+                "address": "2-2770 Pembina Highway Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Feb 9/24",
+                "re_open_date": "Feb 14/24",
+                "reasons_for_closure": "As an operator, fail to take effective measures against the entry and presence of pests. Fail to ensure food contact surfaces are clean and sanitized and protected from contamination. As an operator, did prepare foods under insanitary conditions."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.136085,
+                    49.888923
+                ]
+            },
+            "properties": {
+                "name": "JOA MART",
+                "address": "4th Floor – 191 Broadway Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Feb 5/24",
+                "re_open_date": null,
+                "reasons_for_closure": "Fail to register before commencing operation of a food handling establishment. Operate a food handling establishment without a permit. As the operator of a food service establishment, fail, when using a mechanical washer, to ensure that the machine is capable of sanitizing all utensils and tableware. Fail to ensure food contact surfaces are clean and sanitized and protected from contamination. As the operator of a food service establishment, failed to ensure dishes, equipment and utensils are sanitized when dishwashing. No approved manual dishwashing equipment available."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.135392,
+                    49.802632
+                ]
+            },
+            "properties": {
+                "name": "NORTH GARDEN",
+                "address": "6-33 University Crescent Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Jan 30/24",
+                "re_open_date": "Feb 2/24",
+                "reasons_for_closure": "As an operator, fail to take effective measures against the entry and presence of pests. Fail to ensure that the establishment is maintained in good repair and kept clean."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.187973,
+                    49.91027
+                ]
+            },
+            "properties": {
+                "name": "CANADIANA MOTOR INN",
+                "address": "1400 Notre Dame Avenue Winnipeg, MB",
+                "type_of_est": "Swimming Pool",
+                "closure_date": "Jan 22/24",
+                "re_open_date": "Jan 29/24",
+                "reasons_for_closure": "Operate a pool with inadequate water quality"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.207574,
+                    49.922352
+                ]
+            },
+            "properties": {
+                "name": "KING OF INDIA",
+                "address": "1770 King Edward Street Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Jan 17/24",
+                "re_open_date": "Jan 19/24",
+                "reasons_for_closure": "Fail to ensure that the establishment is maintained in good repair and kept clean. As an operator, fail to maintain safe internal temperature of potentially hazardous foods. As an operator, manufacture, process, prepare, preserve, package, transport, store, sell, offer for sale, deposit for sale, or prepare for sale any food under insanitary conditions."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.205239,
+                    49.857854
+                ]
+            },
+            "properties": {
+                "name": "BIMI JAPANESE RESTAURANT",
+                "address": "1893 Grant Avenue Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Jan 17/24",
+                "re_open_date": "Jan 22/24",
+                "reasons_for_closure": "As an operator, did prepare foods under insanitary conditions. As an operator, fail to take effective measures against the entry and presence of pests. As an operator, fail to take effective measures against the entry and presence of rodents."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.134032,
+                    49.89413
+                ]
+            },
+            "properties": {
+                "name": "CLAY OVEN",
+                "address": "1 Portage Avenue E Winnipeg, MB",
+                "type_of_est": "Food Service Establishment",
+                "closure_date": "Jan 12/24",
+                "re_open_date": "Jan 18/24",
+                "reasons_for_closure": "As an operator, did prepare foods under insanitary conditions. As an operator, fail to take effective measures against the entry and presence of rodents. Fail to ensure foods are protected from contamination. Fail to ensure food contact surfaces are clean and sanitized and protected from contamination."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.210475,
+                    49.894179
+                ]
+            },
+            "properties": {
+                "name": "AIRPORT MOTOR INN",
+                "address": "1800 Ellice Avenue Winnipeg, MB",
+                "type_of_est": "Swimming Pool ",
+                "closure_date": "Jan 12/24",
+                "re_open_date": "Jan 12/24",
+                "reasons_for_closure": "Operate a pool with inadequate water quality. Failed to ensure the quantity of disinfectant in the water in the pool was maintained within the range of 1.0 mg/l to 5.0 mg/l of free available chlorine. "
+            }
+        }
+    ]
+}
